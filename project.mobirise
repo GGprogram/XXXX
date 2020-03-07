@@ -49,7 +49,7 @@
       }
     ],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/android-chrome-192x192-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/android-chrome-192x192blueee-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -1055,20 +1055,6 @@
           "_params": {}
         }
       ]
-    },
-    "page1.html": {
-      "settings": {
-        "title": "Portfolio",
-        "order": 1
-      },
-      "components": []
-    },
-    "page2.html": {
-      "settings": {
-        "title": "Contact",
-        "order": 2
-      },
-      "components": []
     }
   }
 }
