@@ -143,6 +143,9 @@
             },
             ".mbr-section-text,.mbr-section-btn": {
               "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#232323"
             }
           },
           "_name": "extHeader5",
