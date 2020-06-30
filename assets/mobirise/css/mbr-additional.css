@@ -924,48 +924,51 @@ hr {
 .cid-s3pgJyfKDg .underline {
   color: #acd88d;
 }
-.cid-s3p8AQxFOQ {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-s3pqTkLEiI {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/halacious-wigzkvxu2k8-unsplash-2000x1333.jpg");
 }
-.cid-s3p8AQxFOQ .mbr-text,
-.cid-s3p8AQxFOQ .mbr-section-subtitle {
-  color: #767676;
+.cid-s3pqTkLEiI .mbr-section-title {
+  margin: 0;
 }
-.cid-s3p8AQxFOQ .card-title {
-  color: #66458e;
+.cid-s3pqTkLEiI .mbr-section-subtitle {
+  margin-bottom: 2rem;
+  color: #8d97ad;
 }
-.cid-s3p8AQxFOQ .card .card-img span {
-  color: #ffffff;
-  font-size: 60px;
-  background: linear-gradient(45deg, #ffffff, #acd88d);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+.cid-s3pqTkLEiI .mbr-text {
+  margin: 0;
+  color: #efefef;
 }
-@media (max-width: 767px) {
-  .cid-s3p8AQxFOQ .mbr-section-subtitle,
-  .cid-s3p8AQxFOQ .mbr-section-title {
-    text-align: center !important;
+.cid-s3pqTkLEiI .wrapper {
+  padding: 2rem;
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  border-radius: .25rem;
+}
+.cid-s3pqTkLEiI .card1 {
+  background: linear-gradient(45deg, #8a77a1, #8a77a1);
+}
+.cid-s3pqTkLEiI .card2 {
+  background: linear-gradient(45deg, #6dacc1, #6dacc1);
+}
+.cid-s3pqTkLEiI .card3 {
+  background: linear-gradient(45deg, #acd88d, #acd88d);
+}
+.cid-s3pqTkLEiI .card4 {
+  background: linear-gradient(45deg, #1dc9cb, #1dc9cb);
+}
+@media (max-width: 991px) {
+  .cid-s3pqTkLEiI .wrapper {
+    margin-bottom: 5rem;
   }
 }
-@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .cid-s3p8AQxFOQ .card .card-img span {
-    background: none;
-  }
+.cid-s3pqTkLEiI .mbr-card-title {
+  padding-bottom: 1rem;
 }
-.cid-s3p8AQxFOQ .card-title,
-.cid-s3p8AQxFOQ .card-img {
-  color: #232323;
-}
-.cid-s3p8AQxFOQ .mbr-section-title {
-  color: #232323;
-}
-.cid-s3p8AQxFOQ .mbr-section-subtitle {
-  color: #6dacc1;
-}
-.cid-s3p8AQxFOQ .mbr-text {
-  color: #ffffff;
+.cid-s3pqTkLEiI .mbr-section-btn {
+  margin-left: -1rem;
+  margin-right: -1rem;
+  padding-top: 1rem;
 }
 .cid-rTO4KPt8Rv {
   padding-top: 75px;
