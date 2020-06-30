@@ -990,7 +990,7 @@ hr {
   padding: 1rem 0rem;
   background-color: #6dacc1;
   border: none;
-  border-bottom: 2px solid #acd88d;
+  border-bottom: 2px solid #8a77a1;
   color: #acd88d !important;
   transition: 0.4s;
   font-size: 0.9rem;
@@ -1020,7 +1020,7 @@ hr {
 }
 .cid-rTO4KPt8Rv .jq-number__spin {
   background-color: #6dacc1;
-  border-color: #acd88d;
+  border-color: #8a77a1;
   color: #acd88d;
   transition: 0.4s;
   box-shadow: none;
